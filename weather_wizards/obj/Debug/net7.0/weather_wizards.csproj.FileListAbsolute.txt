@@ -1,0 +1,15 @@
+/Users/archana/projects/weather_wizards/weather_wizards/bin/Debug/net7.0/weather_wizards
+/Users/archana/projects/weather_wizards/weather_wizards/bin/Debug/net7.0/weather_wizards.deps.json
+/Users/archana/projects/weather_wizards/weather_wizards/bin/Debug/net7.0/weather_wizards.runtimeconfig.json
+/Users/archana/projects/weather_wizards/weather_wizards/bin/Debug/net7.0/weather_wizards.dll
+/Users/archana/projects/weather_wizards/weather_wizards/bin/Debug/net7.0/weather_wizards.pdb
+/Users/archana/projects/weather_wizards/weather_wizards/obj/Debug/net7.0/weather_wizards.csproj.AssemblyReference.cache
+/Users/archana/projects/weather_wizards/weather_wizards/obj/Debug/net7.0/weather_wizards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/archana/projects/weather_wizards/weather_wizards/obj/Debug/net7.0/weather_wizards.AssemblyInfoInputs.cache
+/Users/archana/projects/weather_wizards/weather_wizards/obj/Debug/net7.0/weather_wizards.AssemblyInfo.cs
+/Users/archana/projects/weather_wizards/weather_wizards/obj/Debug/net7.0/weather_wizards.csproj.CoreCompileInputs.cache
+/Users/archana/projects/weather_wizards/weather_wizards/obj/Debug/net7.0/weather_wizards.dll
+/Users/archana/projects/weather_wizards/weather_wizards/obj/Debug/net7.0/refint/weather_wizards.dll
+/Users/archana/projects/weather_wizards/weather_wizards/obj/Debug/net7.0/weather_wizards.pdb
+/Users/archana/projects/weather_wizards/weather_wizards/obj/Debug/net7.0/weather_wizards.genruntimeconfig.cache
+/Users/archana/projects/weather_wizards/weather_wizards/obj/Debug/net7.0/ref/weather_wizards.dll
